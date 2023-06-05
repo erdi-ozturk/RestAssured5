@@ -55,14 +55,10 @@
                 <version>3.0.0-M1</version>
                 <configuration>
 
-                    <!--                    <suiteXmlFiles>-->
-                    <!--                        <suiteXmlFile>testng.xml</suiteXmlFile>-->
-                    <!--                    </suiteXmlFiles>-->
-
                     <suiteXmlFiles>
-                        <!-- for  run class or classes  /:bulunduğu lokasyonu bütün klasörlere göre bulabiliyor   -->
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
+
 
                 </configuration>
             </plugin>
